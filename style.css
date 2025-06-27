@@ -252,8 +252,13 @@ body {
         cursor: pointer;
     }
 
-    .sale-image__offer{
+    .sale-image__offer {
         width: 200px;
-}
+    }
+
+    .course-card {
+        margin-bottom: 10%;
+    }
+
 
 }
